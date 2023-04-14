@@ -1,0 +1,14 @@
+{
+    "name": "pxt-ardubits-color-sensor",
+    "version": "0.0.0",
+    "description": "tcs34725",
+    "dependencies": {
+        "core": "*"        
+    },
+    "files": [
+        "README.md",
+        "tcs34725.ts"
+    ],
+    "public": true,
+    "license": "MIT"
+}
